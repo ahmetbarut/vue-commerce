@@ -11,7 +11,7 @@ A simple e-commerce project by separating Laravel and vue.js
 ## Install
 
 ```shell
-    git clone https://github.com/ahmetbarut/vue-commerce
+    git clone https://github.com/ahmetbarut/vue-commerce.git
 ```
 
 ## Laravel
@@ -28,7 +28,7 @@ Configure database
 
 ## Vue.js
 
-````shell
+```shell
     cd frontend
     npm install
     yarn serve
@@ -39,4 +39,3 @@ Configure database
 | Email   | Password |
 |---------|----------|
 | user@user.test | 1234|
-````
